@@ -1,0 +1,8 @@
+WARNING: CPU context switch tracing not supported, disabling.
+Try the 'nsys status --environment' command to learn more.
+
+WARNING: CPU sampling not supported, disabling.
+Try the 'nsys status --environment' command to learn more.
+
+Failed to create '/home/ehyo/overhead_experiments/nsys_output.nsys-rep': File exists.
+Use `--force-overwrite true` to overwrite existing files.

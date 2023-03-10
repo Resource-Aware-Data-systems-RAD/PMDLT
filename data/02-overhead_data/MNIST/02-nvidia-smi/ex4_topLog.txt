@@ -1,0 +1,304 @@
+top - 15:17:45 up  5:04,  3 users,  load average: 1.61, 1.01, 0.89
+Tasks: 1310 total,   2 running, 1308 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.7 us,  0.3 sy,  0.0 ni, 99.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem : 515637.3 total, 507993.5 free,   3382.1 used,   4261.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used. 508403.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  90515 ehyo      20   0 2381332 105772  71648 R  94.1   0.0   0:00.17 python
+  90513 ehyo      20   0   21924   5136   3224 R   5.9   0.0   0:00.02 top
+  90514 ehyo      20   0   20696  14860   2560 S   5.9   0.0   0:00.02 nvidia-smi
+
+top - 15:17:48 up  5:04,  3 users,  load average: 1.56, 1.01, 0.89
+Tasks: 1312 total,   2 running, 1310 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  0.3 sy,  0.0 ni, 98.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem : 515637.3 total, 505518.0 free,   5845.4 used,   4274.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used. 505927.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  90515 ehyo      20   0   12.1g   3.0g 708920 R 167.9   0.6   0:05.24 python
+  90607 ehyo      20   0 9399564   1.2g 113792 S  24.8   0.2   0:00.75 python
+   2336 root      20   0 4175600 128868  23596 S   2.6   0.0   2:40.14 nvsm_core
+   5528 root      20   0 3755872  80276  19676 S   1.7   0.0   0:22.82 nvsm_api_gatewa
+   1810 root      39  19       0      0      0 D   1.3   0.0   1:33.83 kipmi0
+   2225 root      20   0  666840 120924  18596 S   0.7   0.0   8:21.10 nv-hostengine
+  90513 ehyo      20   0   21892   5148   3224 R   0.7   0.0   0:00.04 top
+  90514 ehyo      20   0   20696  14860   2560 S   0.7   0.0   0:00.04 nvidia-smi
+   2209 root      20   0  344488  19788  16832 S   0.3   0.0   0:31.04 NetworkManager
+   2215 root      20   0   82748   4700   3528 S   0.3   0.0   0:19.99 irqbalance
+   2885 root      20   0 3121212  42320  29476 S   0.3   0.0   0:53.37 containerd
+  81927 root      20   0       0      0      0 I   0.3   0.0   0:00.51 kworker/u256:1-ipmi-msghandler-remove-
+
+top - 15:17:51 up  5:04,  3 users,  load average: 1.59, 1.03, 0.90
+Tasks: 1312 total,   2 running, 1310 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  0.1 sy,  0.0 ni, 98.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem : 515637.3 total, 504722.3 free,   6634.3 used,   4280.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used. 505132.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  90607 ehyo      20   0 9399564   1.2g 113792 R  82.5   0.2   0:03.24 python
+  90515 ehyo      20   0   13.5g   3.9g 880372 S  46.0   0.8   0:06.63 python
+   2336 root      20   0 4175600 128868  23596 S   3.0   0.0   2:40.23 nvsm_core
+   1810 root      39  19       0      0      0 D   1.0   0.0   1:33.86 kipmi0
+   2225 root      20   0  666840 120924  18596 S   0.7   0.0   8:21.12 nv-hostengine
+  90513 ehyo      20   0   21892   5148   3224 R   0.7   0.0   0:00.06 top
+  90514 ehyo      20   0   20696  14860   2560 S   0.7   0.0   0:00.06 nvidia-smi
+     10 root      20   0       0      0      0 I   0.3   0.0   0:08.77 rcu_sched
+   2885 root      20   0 3121212  42320  29476 S   0.3   0.0   0:53.38 containerd
+  81927 root      20   0       0      0      0 I   0.3   0.0   0:00.52 kworker/u256:1-events_power_efficient
+  89995 root      20   0       0      0      0 I   0.3   0.0   0:00.04 kworker/u256:0-events_power_efficient
+
+top - 15:17:54 up  5:04,  3 users,  load average: 1.59, 1.03, 0.90
+Tasks: 1312 total,   2 running, 1310 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.0 us,  0.1 sy,  0.0 ni, 98.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem : 515637.3 total, 504722.3 free,   6634.1 used,   4281.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used. 505132.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  90607 ehyo      20   0 9399564   1.2g 113792 R 103.7   0.2   0:06.36 python
+  90515 ehyo      20   0   13.5g   3.9g 880372 S  32.6   0.8   0:07.61 python
+   1810 root      39  19       0      0      0 D   1.0   0.0   1:33.89 kipmi0
+  90514 ehyo      20   0   20696  14860   2560 S   0.7   0.0   0:00.08 nvidia-smi
+     10 root      20   0       0      0      0 I   0.3   0.0   0:08.78 rcu_sched
+   2225 root      20   0  666840 120924  18596 S   0.3   0.0   8:21.13 nv-hostengine
+   5528 root      20   0 3755872  80276  19676 S   0.3   0.0   0:22.83 nvsm_api_gatewa
+  90513 ehyo      20   0   21892   5148   3224 R   0.3   0.0   0:00.07 top
+
+top - 15:17:57 up  5:05,  3 users,  load average: 1.62, 1.05, 0.90
+Tasks: 1313 total,   2 running, 1311 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  0.1 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem : 515637.3 total, 504723.4 free,   6629.2 used,   4284.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used. 505133.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  90515 ehyo      20   0   14.1g   3.9g 885172 S  40.7   0.8   0:08.84 python
+  90801 ehyo      20   0   13.5g   3.2g 115772 R  21.5   0.6   0:00.65 python
+   3196 root      20   0   10.0g  63016  46168 S   2.0   0.0   0:12.01 dockerd
+   1810 root      39  19       0      0      0 D   1.7   0.0   1:33.94 kipmi0
+   2225 root      20   0  666840 120924  18596 S   0.7   0.0   8:21.15 nv-hostengine
+  90513 ehyo      20   0   21892   5148   3224 R   0.7   0.0   0:00.09 top
+  90514 ehyo      20   0   20696  14860   2560 S   0.7   0.0   0:00.10 nvidia-smi
+   2139 systemd+  20   0   24544  13208   9256 S   0.3   0.0   0:00.90 systemd-resolve
+   2209 root      20   0  344488  19788  16832 S   0.3   0.0   0:31.05 NetworkManager
+   2215 root      20   0   82748   4700   3528 S   0.3   0.0   0:20.00 irqbalance
+   2335 root      20   0   28724   8448   6556 S   0.3   0.0   0:13.40 mosquitto
+   2336 root      20   0 4175600 128868  23596 S   0.3   0.0   2:40.24 nvsm_core
+   2873 root      20   0  407376  21128  10172 S   0.3   0.0   0:04.33 f2b/server
+   2885 root      20   0 3121212  42320  29476 S   0.3   0.0   0:53.39 containerd
+
+top - 15:18:00 up  5:05,  3 users,  load average: 1.62, 1.05, 0.90
+Tasks: 1312 total,   2 running, 1310 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  0.1 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem : 515637.3 total, 504729.2 free,   6623.1 used,   4285.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used. 505139.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  90809 ehyo      20   0   14.1g   3.2g 115772 R  82.5   0.6   0:02.49 python
+  90515 ehyo      20   0   14.1g   3.9g 887680 S  48.3   0.8   0:10.30 python
+   2336 root      20   0 4175600 128868  23596 S   1.3   0.0   2:40.28 nvsm_core
+   1810 root      39  19       0      0      0 S   0.7   0.0   1:33.96 kipmi0
+   2225 root      20   0  666840 120924  18596 S   0.7   0.0   8:21.17 nv-hostengine
+     10 root      20   0       0      0      0 I   0.3   0.0   0:08.79 rcu_sched
+   2209 root      20   0  344488  19788  16832 S   0.3   0.0   0:31.06 NetworkManager
+   2335 root      20   0   28724   8448   6556 S   0.3   0.0   0:13.41 mosquitto
+   2885 root      20   0 3121212  42320  29476 S   0.3   0.0   0:53.40 containerd
+  90513 ehyo      20   0   21892   5148   3224 R   0.3   0.0   0:00.10 top
+  90514 ehyo      20   0   20696  14860   2560 S   0.3   0.0   0:00.11 nvidia-smi
+
+top - 15:18:03 up  5:05,  3 users,  load average: 1.57, 1.05, 0.91
+Tasks: 1312 total,   3 running, 1309 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.0 us,  0.1 sy,  0.0 ni, 98.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem : 515637.3 total, 504729.8 free,   6623.1 used,   4284.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used. 505139.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  90809 ehyo      20   0   14.1g   3.2g 115772 R 103.6   0.6   0:05.62 python
+  90515 ehyo      20   0   14.1g   3.9g 887680 R  32.8   0.8   0:11.29 python
+   2225 root      20   0  666840 120924  18596 S   0.7   0.0   8:21.19 nv-hostengine
+  90513 ehyo      20   0   21892   5148   3224 R   0.7   0.0   0:00.12 top
+  90514 ehyo      20   0   20696  14860   2560 S   0.7   0.0   0:00.13 nvidia-smi
+     10 root      20   0       0      0      0 I   0.3   0.0   0:08.80 rcu_sched
+   2209 root      20   0  344488  19788  16832 S   0.3   0.0   0:31.07 NetworkManager
+   2885 root      20   0 3121212  42320  29476 S   0.3   0.0   0:53.41 containerd
+  88326 ehyo      20   0   19900   5468   3468 S   0.3   0.0   0:00.11 bash
+
+top - 15:18:06 up  5:05,  3 users,  load average: 1.53, 1.04, 0.91
+Tasks: 1312 total,   2 running, 1310 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  0.1 sy,  0.0 ni, 98.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem : 515637.3 total, 504728.4 free,   6624.3 used,   4284.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used. 505138.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  90515 ehyo      20   0   14.1g   3.9g 887676 S  41.4   0.8   0:12.54 python
+  90833 ehyo      20   0   14.1g   3.2g 115772 R  19.5   0.6   0:00.59 python
+  90514 ehyo      20   0   20696  14860   2560 S   0.7   0.0   0:00.15 nvidia-smi
+     10 root      20   0       0      0      0 I   0.3   0.0   0:08.81 rcu_sched
+   2225 root      20   0  666840 120924  18596 S   0.3   0.0   8:21.20 nv-hostengine
+   2273 root      20   0 5009268  54180  20212 S   0.3   0.0   0:08.72 snapd
+   2743 root      20   0       0      0      0 S   0.3   0.0   0:02.10 nv_queue
+  90513 ehyo      20   0   21892   5148   3224 R   0.3   0.0   0:00.13 top
+
+top - 15:18:09 up  5:05,  3 users,  load average: 1.53, 1.04, 0.91
+Tasks: 1314 total,   2 running, 1312 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  0.1 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem : 515637.3 total, 504730.4 free,   6622.0 used,   4285.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used. 505140.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  90839 ehyo      20   0   14.1g   3.2g 115772 R  80.4   0.6   0:02.42 python
+  90515 ehyo      20   0   14.1g   3.9g 887676 S  45.8   0.8   0:13.92 python
+   2225 root      20   0  666840 120924  18596 S   0.7   0.0   8:21.22 nv-hostengine
+   2885 root      20   0 3121212  42320  29476 S   0.7   0.0   0:53.43 containerd
+  90514 ehyo      20   0   20696  14860   2560 S   0.7   0.0   0:00.17 nvidia-smi
+    953 root      20   0       0      0      0 I   0.3   0.0   0:00.11 kworker/88:1-mm_percpu_wq
+   2215 root      20   0   82748   4700   3528 S   0.3   0.0   0:20.01 irqbalance
+  90513 ehyo      20   0   21892   5148   3224 R   0.3   0.0   0:00.14 top
+
+top - 15:18:12 up  5:05,  3 users,  load average: 1.49, 1.04, 0.91
+Tasks: 1312 total,   2 running, 1310 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.0 us,  0.0 sy,  0.0 ni, 98.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem : 515637.3 total, 504732.6 free,   6619.6 used,   4285.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used. 505142.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  90839 ehyo      20   0   14.1g   3.2g 115772 R 103.6   0.6   0:05.55 python
+  90515 ehyo      20   0   14.1g   3.9g 887676 S  33.1   0.8   0:14.92 python
+   2225 root      20   0  666840 120924  18596 S   0.7   0.0   8:21.24 nv-hostengine
+  90513 ehyo      20   0   21892   5148   3224 R   0.7   0.0   0:00.16 top
+  90514 ehyo      20   0   20696  14860   2560 S   0.7   0.0   0:00.19 nvidia-smi
+     10 root      20   0       0      0      0 I   0.3   0.0   0:08.82 rcu_sched
+   2209 root      20   0  344488  19788  16832 S   0.3   0.0   0:31.08 NetworkManager
+   2252 syslog    20   0  224344   5168   3864 S   0.3   0.0   0:00.39 rsyslogd
+   2273 root      20   0 5009268  54180  20212 S   0.3   0.0   0:08.73 snapd
+   2885 root      20   0 3121212  42320  29476 S   0.3   0.0   0:53.44 containerd
+   3197 mosquit+  20   0   28104   6540   5820 S   0.3   0.0   0:03.06 mosquitto
+
+top - 15:18:15 up  5:05,  3 users,  load average: 1.49, 1.04, 0.91
+Tasks: 1312 total,   2 running, 1310 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  0.1 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem : 515637.3 total, 504730.5 free,   6621.7 used,   4285.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used. 505140.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  90515 ehyo      20   0   14.1g   3.9g 887676 S  42.1   0.8   0:16.19 python
+  90853 ehyo      20   0   14.1g   3.2g 115772 R  17.2   0.6   0:00.52 python
+   2225 root      20   0  666840 120924  18596 S   0.7   0.0   8:21.26 nv-hostengine
+  90513 ehyo      20   0   21892   5148   3224 R   0.7   0.0   0:00.18 top
+     10 root      20   0       0      0      0 I   0.3   0.0   0:08.83 rcu_sched
+   2209 root      20   0  344488  19788  16832 S   0.3   0.0   0:31.09 NetworkManager
+   2336 root      20   0 4175600 128868  23596 S   0.3   0.0   2:40.29 nvsm_core
+   2885 root      20   0 3121212  42320  29476 S   0.3   0.0   0:53.45 containerd
+  90514 ehyo      20   0   20696  14860   2560 S   0.3   0.0   0:00.20 nvidia-smi
+
+top - 15:18:18 up  5:05,  3 users,  load average: 1.53, 1.06, 0.91
+Tasks: 1314 total,   2 running, 1312 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  0.1 sy,  0.0 ni, 98.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem : 515637.3 total, 504731.8 free,   6620.6 used,   4285.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used. 505141.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  90859 ehyo      20   0   14.1g   3.2g 115772 R  77.8   0.6   0:02.35 python
+  90515 ehyo      20   0   14.1g   3.9g 887680 S  43.7   0.8   0:17.51 python
+   2225 root      20   0  666840 120924  18596 S   0.7   0.0   8:21.28 nv-hostengine
+   2336 root      20   0 4175600 128868  23596 S   0.7   0.0   2:40.31 nvsm_core
+  90514 ehyo      20   0   20696  14860   2560 S   0.7   0.0   0:00.22 nvidia-smi
+   2215 root      20   0   82748   4700   3528 S   0.3   0.0   0:20.02 irqbalance
+   2885 root      20   0 3121212  42320  29476 S   0.3   0.0   0:53.46 containerd
+   5528 root      20   0 3755872  80276  19676 S   0.3   0.0   0:22.84 nvsm_api_gatewa
+  60558 root      20   0       0      0      0 I   0.3   0.0   0:00.04 kworker/36:0-mm_percpu_wq
+  90513 ehyo      20   0   21892   5148   3224 R   0.3   0.0   0:00.19 top
+  90866 root      20   0   13532   8412   7252 S   0.3   0.0   0:00.01 sshd
+
+top - 15:18:21 up  5:05,  3 users,  load average: 1.65, 1.09, 0.93
+Tasks: 1313 total,   2 running, 1311 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.0 us,  0.1 sy,  0.0 ni, 98.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem : 515637.3 total, 504732.6 free,   6619.2 used,   4285.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used. 505142.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  90859 ehyo      20   0   14.1g   3.2g 115772 R 104.0   0.6   0:05.48 python
+  90515 ehyo      20   0   14.1g   3.9g 887680 S  32.9   0.8   0:18.50 python
+   2336 root      20   0 4175600 128868  23596 S   2.3   0.0   2:40.38 nvsm_core
+   1810 root      39  19       0      0      0 S   0.7   0.0   1:33.98 kipmi0
+  90513 ehyo      20   0   21892   5148   3224 R   0.7   0.0   0:00.21 top
+  90514 ehyo      20   0   20696  14860   2560 S   0.7   0.0   0:00.24 nvidia-smi
+     10 root      20   0       0      0      0 I   0.3   0.0   0:08.84 rcu_sched
+   2225 root      20   0  666840 120924  18596 S   0.3   0.0   8:21.29 nv-hostengine
+   2335 root      20   0   28692   8432   6556 S   0.3   0.0   0:13.42 mosquitto
+   2885 root      20   0 3121212  42320  29476 S   0.3   0.0   0:53.47 containerd
+   5528 root      20   0 3755872  80276  19676 S   0.3   0.0   0:22.85 nvsm_api_gatewa
+  89995 root      20   0       0      0      0 I   0.3   0.0   0:00.05 kworker/u256:0-ipmi-msghandler-remove-
+
+top - 15:18:24 up  5:05,  3 users,  load average: 1.65, 1.09, 0.93
+Tasks: 1313 total,   2 running, 1311 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  0.1 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem : 515637.3 total, 504727.6 free,   6624.7 used,   4285.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used. 505137.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  90515 ehyo      20   0   14.1g   3.9g 887680 S  42.7   0.8   0:19.79 python
+  90939 ehyo      20   0   14.1g   3.2g 115772 R  14.2   0.6   0:00.43 python
+   2336 root      20   0 4175600 128868  23596 S   2.3   0.0   2:40.45 nvsm_core
+   1810 root      39  19       0      0      0 S   1.7   0.0   1:34.03 kipmi0
+   2225 root      20   0  666840 120924  18596 S   0.7   0.0   8:21.31 nv-hostengine
+   2885 root      20   0 3121212  42320  29476 S   0.7   0.0   0:53.49 containerd
+  90514 ehyo      20   0   20696  14860   2560 S   0.7   0.0   0:00.26 nvidia-smi
+     10 root      20   0       0      0      0 I   0.3   0.0   0:08.85 rcu_sched
+   2209 root      20   0  344488  19788  16832 S   0.3   0.0   0:31.10 NetworkManager
+   2873 root      20   0  407376  21128  10172 S   0.3   0.0   0:04.34 f2b/server
+   5528 root      20   0 3755872  80276  19676 S   0.3   0.0   0:22.86 nvsm_api_gatewa
+  81927 root      20   0       0      0      0 I   0.3   0.0   0:00.53 kworker/u256:1-events_power_efficient
+  89995 root      20   0       0      0      0 I   0.3   0.0   0:00.06 kworker/u256:0-events_power_efficient
+  90513 ehyo      20   0   21892   5148   3224 R   0.3   0.0   0:00.22 top
+
+top - 15:18:27 up  5:05,  3 users,  load average: 1.67, 1.11, 0.93
+Tasks: 1312 total,   2 running, 1310 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  0.1 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem : 515637.3 total, 504727.6 free,   6624.4 used,   4285.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used. 505137.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  90966 ehyo      20   0   14.1g   3.2g 115784 R  74.8   0.6   0:02.26 python
+  90515 ehyo      20   0   14.1g   3.9g 887676 S  44.7   0.8   0:21.14 python
+   2336 root      20   0 4175600 128868  23596 S   1.0   0.0   2:40.48 nvsm_core
+   1810 root      39  19       0      0      0 S   0.7   0.0   1:34.05 kipmi0
+   2215 root      20   0   82748   4700   3528 S   0.7   0.0   0:20.04 irqbalance
+   2225 root      20   0  666840 120924  18596 S   0.7   0.0   8:21.33 nv-hostengine
+  90514 ehyo      20   0   20696  14860   2560 S   0.7   0.0   0:00.28 nvidia-smi
+     10 root      20   0       0      0      0 I   0.3   0.0   0:08.86 rcu_sched
+   2885 root      20   0 3121212  42320  29476 S   0.3   0.0   0:53.50 containerd
+  90513 ehyo      20   0   21892   5148   3224 R   0.3   0.0   0:00.23 top
+
+top - 15:18:30 up  5:05,  3 users,  load average: 1.67, 1.11, 0.93
+Tasks: 1314 total,   4 running, 1310 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.0 us,  0.1 sy,  0.0 ni, 98.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem : 515637.3 total, 504723.9 free,   6627.9 used,   4285.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used. 505134.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  90966 ehyo      20   0   14.1g   3.2g 115780 R 103.6   0.6   0:05.39 python
+  90515 ehyo      20   0   14.1g   3.9g 887676 R  32.5   0.8   0:22.12 python
+  90998 ehyo      20   0   21940   5060   3296 S   2.0   0.0   0:00.06 top
+   1810 root      39  19       0      0      0 R   1.3   0.0   1:34.09 kipmi0
+   2225 root      20   0  666840 120924  18596 S   1.0   0.0   8:21.36 nv-hostengine
+  90513 ehyo      20   0   21892   5148   3224 R   0.7   0.0   0:00.25 top
+  90514 ehyo      20   0   20696  14860   2560 S   0.7   0.0   0:00.30 nvidia-smi
+   2209 root      20   0  344488  19788  16832 S   0.3   0.0   0:31.11 NetworkManager
+   2336 root      20   0 4175600 128868  23596 S   0.3   0.0   2:40.49 nvsm_core
+  89995 root      20   0       0      0      0 I   0.3   0.0   0:00.07 kworker/u256:0-events_unbound
+
+top - 15:18:33 up  5:05,  3 users,  load average: 1.62, 1.10, 0.93
+Tasks: 1313 total,   3 running, 1310 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  0.1 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem : 515637.3 total, 504722.6 free,   6629.5 used,   4285.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used. 505132.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  90515 ehyo      20   0   14.1g   3.9g 887680 S  43.7   0.8   0:23.44 python
+  91006 ehyo      20   0   14.1g   3.2g 115772 R  11.3   0.6   0:00.34 python
+   1810 root      39  19       0      0      0 R   1.7   0.0   1:34.14 kipmi0
+   2225 root      20   0  666840 120924  18596 S   1.0   0.0   8:21.39 nv-hostengine
+  90513 ehyo      20   0   21892   5148   3224 R   0.7   0.0   0:00.27 top
+  90514 ehyo      20   0   20696  14860   2560 S   0.7   0.0   0:00.32 nvidia-smi
+     10 root      20   0       0      0      0 I   0.3   0.0   0:08.87 rcu_sched
+   2885 root      20   0 3121212  42320  29476 S   0.3   0.0   0:53.51 containerd
