@@ -12,6 +12,7 @@ This repository contains the data of our experiments for showing profiling and m
 ## Cite our paper
 
 ### latex
+```latex
 @inproceedings{10.1145/3578356.3592589,
 author = {Yousefzadeh-Asl-Miandoab, Ehsan and Robroek, Ties and Tozun, Pinar},
 title = {Profiling and Monitoring Deep Learning Training Tasks},
@@ -29,3 +30,4 @@ keywords = {co-processors, monitoring, optimization, deep learning, profiling},
 location = {Rome, Italy},
 series = {EuroMLSys '23}
 }
+```
