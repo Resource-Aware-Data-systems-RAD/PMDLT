@@ -12,8 +12,6 @@ This repository contains the data of our experiments for showing profiling and m
 
 [![Watch the video](https://img.youtube.com/vi/-dZkowi_zpM/hqdefault.jpg)](https://www.youtube.com/embed/-dZkowi_zpM)
 
-[<img src="https://img.youtube.com/vi/-dZkowi_zpM/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/-dZkowi_zpM)
 
 ## Cite our paper
 
