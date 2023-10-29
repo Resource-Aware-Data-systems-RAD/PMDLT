@@ -1,5 +1,5 @@
-# Profiling and Monitoring of Deep Learning Training Tasks
-This repository contains the data of our experiments for showing profiling and monitoring tools overhead in our paper "Profiling and Monitoring Deep Learning Training Tasks". Also, it contains our simple CUDA benchmark that we used for showing GRACT, SMACT, and SMOCC metrics changes over different number of thread block and threads in each thread block.
+# Profiling and Monitoring Deep Learning Training Tasks
+This repository contains the data of our experiments for showing profiling and monitoring tools overhead in our paper "Profiling and Monitoring Deep Learning Training Tasks". Also, it contains our simple CUDA benchmark that we used for showing GRACT, SMACT, and SMOCC metrics changes over different numbers of thread blocks and threads in each thread block.
 
 1. [CUDA benchmark](benchmark/square.cu) - [script](benchmark/script.sh) for running with different configurations - related [data](data/01-metic_data/)
 2. Profiling and monitoring tools overhead measuring experiments
@@ -8,7 +8,13 @@ This repository contains the data of our experiments for showing profiling and m
 3. Models we trained while measuring the tools' overhead
     - Simple CNN-based MNIST classifier
     - ResNet50 on ImageNet
-  
+## Paper presentation video
+
+[![Watch the video](https://img.youtube.com/vi/-dZkowi_zpM/hqdefault.jpg)](https://www.youtube.com/embed/-dZkowi_zpM)
+
+[<img src="https://img.youtube.com/vi/-dZkowi_zpM/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/-dZkowi_zpM)
+
 ## Cite our paper
 
 ### latex
